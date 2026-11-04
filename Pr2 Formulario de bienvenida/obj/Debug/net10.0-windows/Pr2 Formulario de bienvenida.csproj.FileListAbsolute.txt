@@ -1,0 +1,17 @@
+C:\Users\Anass\source\repos\Interfaces\Pr2 Formulario de bienvenida\bin\Debug\net10.0-windows\Pr2 Formulario de bienvenida.exe
+C:\Users\Anass\source\repos\Interfaces\Pr2 Formulario de bienvenida\bin\Debug\net10.0-windows\Pr2 Formulario de bienvenida.deps.json
+C:\Users\Anass\source\repos\Interfaces\Pr2 Formulario de bienvenida\bin\Debug\net10.0-windows\Pr2 Formulario de bienvenida.runtimeconfig.json
+C:\Users\Anass\source\repos\Interfaces\Pr2 Formulario de bienvenida\bin\Debug\net10.0-windows\Pr2 Formulario de bienvenida.dll
+C:\Users\Anass\source\repos\Interfaces\Pr2 Formulario de bienvenida\bin\Debug\net10.0-windows\Pr2 Formulario de bienvenida.pdb
+C:\Users\Anass\source\repos\Interfaces\Pr2 Formulario de bienvenida\obj\Debug\net10.0-windows\practica2.FormularioBienvenida.resources
+C:\Users\Anass\source\repos\Interfaces\Pr2 Formulario de bienvenida\obj\Debug\net10.0-windows\Pr2 Formulario de bienvenida.csproj.GenerateResource.cache
+C:\Users\Anass\source\repos\Interfaces\Pr2 Formulario de bienvenida\obj\Debug\net10.0-windows\Pr2 Formulario de bienvenida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anass\source\repos\Interfaces\Pr2 Formulario de bienvenida\obj\Debug\net10.0-windows\Pr2 Formulario de bienvenida.AssemblyInfoInputs.cache
+C:\Users\Anass\source\repos\Interfaces\Pr2 Formulario de bienvenida\obj\Debug\net10.0-windows\Pr2 Formulario de bienvenida.AssemblyInfo.cs
+C:\Users\Anass\source\repos\Interfaces\Pr2 Formulario de bienvenida\obj\Debug\net10.0-windows\Pr2 Formulario de bienvenida.csproj.CoreCompileInputs.cache
+C:\Users\Anass\source\repos\Interfaces\Pr2 Formulario de bienvenida\obj\Debug\net10.0-windows\Pr2 Formulario de bienvenida.dll
+C:\Users\Anass\source\repos\Interfaces\Pr2 Formulario de bienvenida\obj\Debug\net10.0-windows\refint\Pr2 Formulario de bienvenida.dll
+C:\Users\Anass\source\repos\Interfaces\Pr2 Formulario de bienvenida\obj\Debug\net10.0-windows\Pr2 Formulario de bienvenida.pdb
+C:\Users\Anass\source\repos\Interfaces\Pr2 Formulario de bienvenida\obj\Debug\net10.0-windows\Pr2 Formulario de bienvenida.genruntimeconfig.cache
+C:\Users\Anass\source\repos\Interfaces\Pr2 Formulario de bienvenida\obj\Debug\net10.0-windows\ref\Pr2 Formulario de bienvenida.dll
+C:\Users\Anass\source\repos\Interfaces\Pr2 Formulario de bienvenida\obj\Debug\net10.0-windows\Pr2 Form.E9E73B6D.Up2Date

@@ -1,0 +1,17 @@
+C:\Users\Anass\source\repos\Interfaces\Pr1 Mi primera aplicacion\bin\Debug\net10.0-windows\Pr1 Mi primera pantalla.exe
+C:\Users\Anass\source\repos\Interfaces\Pr1 Mi primera aplicacion\bin\Debug\net10.0-windows\Pr1 Mi primera pantalla.deps.json
+C:\Users\Anass\source\repos\Interfaces\Pr1 Mi primera aplicacion\bin\Debug\net10.0-windows\Pr1 Mi primera pantalla.runtimeconfig.json
+C:\Users\Anass\source\repos\Interfaces\Pr1 Mi primera aplicacion\bin\Debug\net10.0-windows\Pr1 Mi primera pantalla.dll
+C:\Users\Anass\source\repos\Interfaces\Pr1 Mi primera aplicacion\bin\Debug\net10.0-windows\Pr1 Mi primera pantalla.pdb
+C:\Users\Anass\source\repos\Interfaces\Pr1 Mi primera aplicacion\obj\Debug\net10.0-windows\WinFormsApp1.frmPrincipal.resources
+C:\Users\Anass\source\repos\Interfaces\Pr1 Mi primera aplicacion\obj\Debug\net10.0-windows\Pr1 Mi primera pantalla.csproj.GenerateResource.cache
+C:\Users\Anass\source\repos\Interfaces\Pr1 Mi primera aplicacion\obj\Debug\net10.0-windows\Pr1 Mi primera pantalla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anass\source\repos\Interfaces\Pr1 Mi primera aplicacion\obj\Debug\net10.0-windows\Pr1 Mi primera pantalla.AssemblyInfoInputs.cache
+C:\Users\Anass\source\repos\Interfaces\Pr1 Mi primera aplicacion\obj\Debug\net10.0-windows\Pr1 Mi primera pantalla.AssemblyInfo.cs
+C:\Users\Anass\source\repos\Interfaces\Pr1 Mi primera aplicacion\obj\Debug\net10.0-windows\Pr1 Mi primera pantalla.csproj.CoreCompileInputs.cache
+C:\Users\Anass\source\repos\Interfaces\Pr1 Mi primera aplicacion\obj\Debug\net10.0-windows\Pr1 Mi primera pantalla.dll
+C:\Users\Anass\source\repos\Interfaces\Pr1 Mi primera aplicacion\obj\Debug\net10.0-windows\refint\Pr1 Mi primera pantalla.dll
+C:\Users\Anass\source\repos\Interfaces\Pr1 Mi primera aplicacion\obj\Debug\net10.0-windows\Pr1 Mi primera pantalla.pdb
+C:\Users\Anass\source\repos\Interfaces\Pr1 Mi primera aplicacion\obj\Debug\net10.0-windows\Pr1 Mi primera pantalla.genruntimeconfig.cache
+C:\Users\Anass\source\repos\Interfaces\Pr1 Mi primera aplicacion\obj\Debug\net10.0-windows\ref\Pr1 Mi primera pantalla.dll
+C:\Users\Anass\source\repos\Interfaces\Pr1 Mi primera aplicacion\obj\Debug\net10.0-windows\Pr1 Mi p.2BF1FA55.Up2Date
